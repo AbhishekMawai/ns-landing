@@ -2,7 +2,7 @@
 
 import React from 'react';
 import DataGraphDark from './DataGraphDark';
-import portfolioData from './portfolio_perfomance.json'; // Portfolio performance data
+import portfolioData from './portfolio.json'; // Portfolio performance data
 import niftyData from './nifty50.json'; // Nifty50 data
 
 // Helper function to find the latest date from the portfolio data
