@@ -10,50 +10,50 @@ export interface AssetData {
 export const summary: AssetData[] = [
   {
     assetClass: "EQUITY",
-    pnl: "4574462.27",
-    presentValue: "31535394.75",
-    totalInvested: "26960932.48"
+    pnl: "4237999.67",
+    presentValue: "30977773.87",
+    totalInvested: "26739774.20"
   },
   {
     assetClass: "DEBT",
-    pnl: "1118250.67",
-    presentValue: "9652150.06",
-    totalInvested: "8533899.40"
+    pnl: "1065671.15",
+    presentValue: "9679572.10",
+    totalInvested: "8613900.94"
   },
   {
     assetClass: "GOLD",
-    pnl: "1968385.76",
-    presentValue: "4401228.33",
+    pnl: "1959303.19",
+    presentValue: "4392145.76",
     totalInvested: "2432842.57"
   },
   {
     assetClass: "LIQUID",
-    pnl: "2912.70",
-    presentValue: "1289832.00",
-    totalInvested: "1286919.30"
+    pnl: "3630.73",
+    presentValue: "1391550.08",
+    totalInvested: "1387919.35"
   },
   {
     assetClass: "SILVER",
-    pnl: "667895.95",
-    presentValue: "1210125.92",
+    pnl: "681158.06",
+    presentValue: "1223388.03",
     totalInvested: "542229.97"
   },
   {
     assetClass: "INViTs/REiTs",
-    pnl: "229292.93",
-    presentValue: "1174557.66",
+    pnl: "230680.87",
+    presentValue: "1175945.60",
     totalInvested: "945264.73"
-  },
-  {
-    assetClass: "HYBRID",
-    pnl: "5868.31",
-    presentValue: "273852.76",
-    totalInvested: "267984.44"
   },
   {
     assetClass: "CASH",
     pnl: "0.00",
-    presentValue: "239363.02",
-    totalInvested: "239363.02"
+    presentValue: "982237.35",
+    totalInvested: "982237.35"
+  },
+  {
+    assetClass: "HYBRID",
+    pnl: "2021.96",
+    presentValue: "278005.97",
+    totalInvested: "275984.02"
   }
 ];
